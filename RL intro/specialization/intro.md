@@ -1,0 +1,8 @@
+- supervised learning
+	- assume the learner has assess to ==labeled== examples giving the correct answer
+	- explictly correct answer has been obtained
+- reinforcement learning
+	- ==the reward== gives the agent some idea of how good or bad its recent actions were
+	- identify what good behavior looks like, but can't tell exactly how to do it
+- unsupervised learning
+	- extracting ==underlying structure== in data
