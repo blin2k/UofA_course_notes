@@ -173,7 +173,7 @@ Because of
 Instead of averaging return values of the same action, we need to average $\rho G_t$
 - $V_\pi(s)=\mathbb E_b[\rho G_t|S_t=s]$
 
-$P(\text{trajectory under b})=P(A_t,S_{t+1},A_{A+1},...,S_T|S_t,A_{t:T})=\prod^{T-1}_i=t b(A_i|S_i)\cdot P(S_{i+1}|S_i,A_i)$
+$P(\text{trajectory under b})=P(A_t,S_{t+1},A_{A+1},...,S_T|S_t,A_{t:T})=\prod^{T-1}_{i=t} b(A_i|S_i)\cdot P(S_{i+1}|S_i,A_i)$
 	The probability of a specific path from the given state equals,
 	the probability of having a specific action under the behavior policy
 	times the probability of having a specific next state.

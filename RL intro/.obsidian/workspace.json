@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Chapter 4.md",
+                "file": "Chapter 3.5.md",
                 "mode": "source",
                 "source": false
               }
@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "519ddbd1944b3d89",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Chapter 6.6.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -106,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Chapter 6.3.md",
+                "file": "Chapter 6.6.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Chapter 6.3.md",
+                "file": "Chapter 6.6.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Chapter 6.3.md"
+                "file": "Chapter 6.6.md"
               }
             }
           },
@@ -177,20 +189,25 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "dd173c33a3811c37",
+  "active": "519ddbd1944b3d89",
   "lastOpenFiles": [
-    "Pasted image 20231022174346.png",
-    "Chapter 4.md",
     "Chapter 6.3.md",
+    "Chapter 6.6.md",
     "Chapter 5.md",
+    "Pasted image 20231024201950.png",
+    "Pasted image 20231024193654.png",
+    "Chapter 3.5.md",
+    "attachments/Pasted image 20231024170712.png",
+    "attachments/Pasted image 20231024164307.png",
+    "attachments/Pasted image 20231024164256.png",
+    "Chapter 4.md",
+    "attachments/Pasted image 20231023180506.png",
+    "attachments/Pasted image 20231022174346.png",
     "Chapter 2.md",
     "attachments/Pasted image 20231020191013.png",
     "specialization/intro.md",
-    "Chapter 3.5.md",
     "attachments/Pasted image 20231004170145.png",
     "attachments/Pasted image 20231004165217.png",
-    "attachments/Pasted image 20231004102304.png",
-    "attachments/Pasted image 20231004102252.png",
     "attachments/Learning-Objectives-.pdf",
     "attachments/RLbook2018.pdf",
     "attachments",
