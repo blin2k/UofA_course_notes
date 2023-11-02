@@ -13,25 +13,50 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MLE.md",
+                "file": "Hyperparameter Tuning.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "961901adc460b6de",
+            "id": "21564d2a08e7e2bd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Regularization.md",
+                "file": "Classification.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "682c490ff1e8d7b2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Logistic.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f9f1850ec3ccd3e5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MAP.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -97,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MLE.md",
+                "file": "Logistic.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MLE.md",
+                "file": "Logistic.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MLE.md"
+                "file": "Logistic.md"
               }
             }
           },
@@ -168,17 +193,21 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "1d87645dafa76780",
+  "active": "682c490ff1e8d7b2",
   "lastOpenFiles": [
+    "Classification.md",
+    "Logistic.md",
+    "attachments/Pasted image 20231102002834.png",
+    "Hyperparameter Tuning.md",
+    "MAP.md",
     "Regularization.md",
-    "Pasted image 20231018212248.png",
+    "MLE.md",
+    "attachments/Pasted image 20231018212248.png",
     "Gradient Decent.md",
-    "Maximize a Posteriori Estimation.md",
     "Probabilistic Interpretation.md",
     "attachments/Pasted image 20231018212152.png",
     "attachments/Pasted image 20231018191936.png",
     "Bias-Variance Trade-Off.md",
-    "MLE.md",
     "attachments/Pasted image 20231014223656.png",
     "Pasted image 20231014223222.png",
     "Solving MSE.md",
