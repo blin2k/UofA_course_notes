@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Hyperparameter Tuning.md",
+                "file": "MAP.md",
                 "mode": "source",
                 "source": false
               }
@@ -195,11 +195,11 @@
   },
   "active": "682c490ff1e8d7b2",
   "lastOpenFiles": [
+    "MAP.md",
+    "Hyperparameter Tuning.md",
     "Classification.md",
     "Logistic.md",
     "attachments/Pasted image 20231102002834.png",
-    "Hyperparameter Tuning.md",
-    "MAP.md",
     "Regularization.md",
     "MLE.md",
     "attachments/Pasted image 20231018212248.png",
