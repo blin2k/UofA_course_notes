@@ -25,14 +25,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Topic 4 (Simple Linear Regression & Simple Linear Correlation).md",
-                "mode": "source",
+                "file": "Topic 2 (Analysis for One or Two Population Means).md",
+                "mode": "preview",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Topic 4 (Simple Linear Regression & Simple Linear Correlation).md",
+                "file": "Topic 3 (Analysis of Several Population Means).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Topic 4 (Simple Linear Regression & Simple Linear Correlation).md",
+                "file": "Topic 3 (Analysis of Several Population Means).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Topic 4 (Simple Linear Regression & Simple Linear Correlation).md"
+                "file": "Topic 3 (Analysis of Several Population Means).md"
               }
             }
           }
@@ -159,16 +158,16 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "62709682324d4fa3",
+  "active": "e5103dcb61c6f168",
   "lastOpenFiles": [
-    "Topic 3 (Analysis of Several Population Means).md",
+    "Topic 2 (Analysis for One or Two Population Means).md",
+    "Topic 1 (Design Concepts).md",
     "Topic 4 (Simple Linear Regression & Simple Linear Correlation).md",
+    "Topic 3 (Analysis of Several Population Means).md",
     "attachments/Pasted image 20231015165947.png",
     "attachments/Pasted image 20231015165907.png",
-    "Topic 2 (Analysis for One or Two Population Means).md",
     "attachments",
     "attachments/Pasted image 20230924185520.png",
-    "attachments/Pasted image 20230924185132.png",
-    "Topic 1 (Design Concepts).md"
+    "attachments/Pasted image 20230924185132.png"
   ]
 }

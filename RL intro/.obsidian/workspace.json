@@ -13,30 +13,6 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Chapter 3.5.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "dd173c33a3811c37",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Chapter 5.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "412dc036dbdb06aa",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "Chapter 8.3.md",
                 "mode": "source",
                 "source": false
@@ -44,19 +20,19 @@
             }
           },
           {
-            "id": "519ddbd1944b3d89",
+            "id": "82e6417577811ac1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Chapter 6.6.md",
+                "file": "Chapter 9.4.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -114,7 +90,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "4537b2fbb7363f89",
@@ -130,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Chapter 8.3.md",
+                "file": "Chapter 9.4.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Chapter 8.3.md",
+                "file": "Chapter 9.4.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Chapter 8.3.md"
+                "file": "Chapter 9.4.md"
               }
             }
           },
@@ -201,26 +177,28 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "412dc036dbdb06aa",
+  "active": "82e6417577811ac1",
   "lastOpenFiles": [
-    "Chapter 5.md",
+    "attachments/Pasted image 20231122190817.png",
+    "attachments/Pasted image 20231120215357.png",
     "Chapter 8.3.md",
-    "Chapter 6.3.md",
+    "Chapter 9.4.md",
     "Chapter 6.6.md",
+    "Chapter 6.3.md",
+    "Chapter 5.md",
+    "Chapter 4.md",
+    "Chapter 3.5.md",
     "attachments/Pasted image 20231024201950.png",
     "attachments/Pasted image 20231024193654.png",
-    "Chapter 3.5.md",
     "attachments/Pasted image 20231024170712.png",
     "attachments/Pasted image 20231024164307.png",
     "attachments/Pasted image 20231024164256.png",
-    "Chapter 4.md",
     "attachments/Pasted image 20231023180506.png",
     "attachments/Pasted image 20231022174346.png",
     "Chapter 2.md",
     "attachments/Pasted image 20231020191013.png",
     "specialization/intro.md",
     "attachments/Pasted image 20231004170145.png",
-    "attachments/Pasted image 20231004165217.png",
     "attachments/Learning-Objectives-.pdf",
     "attachments/RLbook2018.pdf",
     "attachments",

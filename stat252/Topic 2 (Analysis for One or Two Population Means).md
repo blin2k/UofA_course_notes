@@ -186,7 +186,7 @@ where $S_p=\sqrt{\frac{(n_1-1)s_1^2+(n_2-1)s_2^2}{n_1+n_2-2}}$
 
 ---
 - (1-$\alpha$)100% Confidence Interval for $\mu_1-\mu_2$
-	- $(\bar y_1-\bar y_2)\pm t^*_{n_1+n_2-2,frac\alpha2}\times S_p\sqrt{\frac1{n_1}+\frac1{n_2}}$
+	- $(\bar y_1-\bar y_2)\pm t^*_{n_1+n_2-2,\frac\alpha2}\times S_p\sqrt{\frac1{n_1}+\frac1{n_2}}$
  
 - H0: $\mu_1-\mu_2=\mu_0$
 	- $\frac{(\bar y_1-\bar y_2)-\mu_0}{S_p\sqrt{\frac1{n_1}+\frac1{n_2}}}$
