@@ -33,7 +33,7 @@ Bernoulli Distribution
 - $Pr(t=1)=\pi$
 - $Pr(t=0)=1-\pi$
 
-# Cross-Entry Loss
+# Cross-Entropy Loss
 
 In linear regression, the true value is normally distributed around the predicted value
 - $t^{(m)}\sim \mathcal N(w^Tx,\sigma_\epsilon^2)$
