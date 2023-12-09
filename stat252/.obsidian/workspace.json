@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "e5103dcb61c6f168",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Topic 3 (Analysis of Several Population Means).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "bfa55221473120ac",
             "type": "leaf",
             "state": {
@@ -32,19 +20,18 @@
             }
           },
           {
-            "id": "62709682324d4fa3",
+            "id": "1918716d145b726c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Topic 2 (Analysis for One or Two Population Means).md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -171,14 +158,14 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "7be574a2ee9e45bc",
+  "active": "bfa55221473120ac",
   "lastOpenFiles": [
+    "Topic 2 (Analysis for One or Two Population Means).md",
+    "Topic 5 (Multiple Regression Analysis).md",
     "attachments/Pasted image 20231126202901.png",
     "attachments/Pasted image 20231126202505.png",
     "attachments/Pasted image 20231126171540.png",
     "Topic 3 (Analysis of Several Population Means).md",
-    "Topic 5 (Multiple Regression Analysis).md",
-    "Topic 2 (Analysis for One or Two Population Means).md",
     "Topic 1 (Design Concepts).md",
     "Topic 4 (Simple Linear Regression & Simple Linear Correlation).md",
     "attachments/Pasted image 20231015165947.png",

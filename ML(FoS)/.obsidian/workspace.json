@@ -4,28 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "71a00c298ef5c30d",
+        "id": "46fe0a5da15b3448",
         "type": "tabs",
         "children": [
           {
-            "id": "1d87645dafa76780",
+            "id": "2b6645a383afe6c8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Logistic.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8cea959ddfd3f620",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Softmax.md",
+                "file": "Gaussian Mixture Models.md",
                 "mode": "source",
                 "source": false
               }
@@ -60,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "sol",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -97,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Logistic.md",
+                "file": "Gaussian Mixture Models.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Logistic.md",
+                "file": "Gaussian Mixture Models.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Logistic.md"
+                "file": "Gaussian Mixture Models.md"
               }
             }
           },
@@ -168,25 +156,33 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "1d87645dafa76780",
+  "active": "2b6645a383afe6c8",
   "lastOpenFiles": [
+    "Generative Models.md",
+    "Gaussian Mixture Models.md",
+    "Hyperparameter Tuning.md",
+    "Regularization.md",
+    "MLE.md",
+    "Bias-Variance Trade-Off.md",
+    "MAP.md",
     "Softmax.md",
     "Logistic.md",
     "Classification.md",
+    "example.md",
+    "Neural Networks.md",
+    "attachments/Pasted image 20231130043028.png",
+    "Back Propagation.md",
+    "Forward Propagation.md",
+    "j.md",
     "Hypothesis Class.md",
-    "MAP.md",
-    "Regularization.md",
     "Gradient Decent.md",
     "MSE.md",
     "Solving MSE.md",
-    "Hyperparameter Tuning.md",
     "attachments/Pasted image 20231102002834.png",
-    "MLE.md",
     "attachments/Pasted image 20231018212248.png",
     "Probabilistic Interpretation.md",
     "attachments/Pasted image 20231018212152.png",
     "attachments/Pasted image 20231018191936.png",
-    "Bias-Variance Trade-Off.md",
     "attachments/Pasted image 20231014223656.png",
     "Pasted image 20231014223222.png",
     "attachments",

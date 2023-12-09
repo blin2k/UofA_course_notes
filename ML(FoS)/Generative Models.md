@@ -1,0 +1,99 @@
+model
+- parametric
+	- fixed number of parameters
+- non-parametric
+	- number of parameters may vary
+		- usually depend on the number of samples
+
+---
+regression
+- logistic
+	- t in {0,1}
+	- $z=w^Tx+b$
+		- only one class to determine true or false
+	- $y=\sigma(z)=\frac1{1+e^{-z}}$
+		- sigmoid turns the score into probability
+		- $P(t=1|x)=y$
+			- the probability of the sample with given features is in the class
+	- $J^{(m)}=-t^{(m)}\cdot log(y)^{(m)}-(1-t^{(m)})\cdot log(1-y^{(m)})$
+		- the loss function for the m-th sample
+		- MLE
+	- optimization for MLE
+		- $\frac{\partial J^{(m)}}{\partial w_i}=(y^{(m)}-t^{(m)})\cdot x_i^{(m)}$
+			- the error times the feature
+	- MAP
+		- same as MLE but
+			- Gaussian prior -> l2 penalty
+			- Laplacian prior -> l1 penalty
+	- inference
+		- $y\ge 0.5\rightarrow w^Tx+b\ge0$
+			- $\hat t=1$
+		- otherwise
+			- $\hat t=0$
+- SoftMax
+	- t in {1, 2, …, k}
+	- $z_k=w_k^Tx+b_k$
+		- multi-class
+		- the score for the k-th class
+	- $\overset \sim y_k=exp(z_k)$
+		- unnormalized measure for the k-th class
+		- ensure the score positive
+	- $Z=\sum_k\overset\sim y_k$
+		- partition function
+		- the total score of the current sample
+	- $y_k=\frac1Z\cdot\overset\sim y_k=\frac{exp(w^T_kx+b_k)}{\sum_{k'} exp(w^T_kx+b_k)}$
+		- normalize the score, so it becomes the probability
+		- $P(t=k|x)=y_k$
+		- for this specific sample, we have different non-zero scores for it in different classes, so as the probability 
+		- $W\in\mathbb R^{k\times d}$
+		- $y,b\in\mathbb R^k$
+	- $J^{(m)}=-\sum^K_{k=1}t^{(m)}_k\cdot log(y^{(m)}_k)=-log(y^{(m)}_{t^{(m)}})$
+		- MLE
+		- $t=[\mathcal 1\{t=1\},\mathcal 1\{t=2\},...,\mathcal 1\{t=k\}]^T$
+			- it is a column vector
+			- indicating if the feature is applied
+	- optimization for MLE
+		- $\frac{\partial J^{(m)}}{\partial w_{i,j}}=(y_i^{(m)}-t_i^{(m)})\cdot x_j^{(m)}$
+			- i for category
+			- j for feature 
+	- MAP
+		- same as MLE but
+			- Gaussian prior -> l2 penalty
+			- Laplacian prior -> l1 penalty
+	- optimality
+		- not unique
+		- $\frac{exp(w_1^Tx+b_1)}{exp(w_1^T+b_1)+exp(w_0^Tx+b_0)}=\frac{1}{1+e^{-((w-w')x+(b-b'))}}$
+			- if $w_*,w_*',b_*,b_*'$ is a SoftMax optimum
+			- then $w_*+C,w_*'+C,b_*+C',b_*'+C'$ is also an optimum for any $C,C'\in\mathbb R$
+			- ==not fully comprehending...==
+	- inference
+		- $\hat t=\underset k {argmax}\, y_k=\underset k{argmax}\,(w_k^Tx+b_k)$
+		- minimize the expected error
+---
+- discriminative models
+	- $p(t|x)$
+	- testing X as known constants
+	- always given in both training and inference
+	- no need to generate x
+		- no need to have $P(x)$
+- generative models
+	- $P(t,x)=P(x)\cdot P(t|x)=P(t)\cdot P(x|t)$
+	- purposes
+		- to generate samples
+			- when you have few samples
+		- data augmentation
+		- unsupervised learning
+			- if t is unknown 
+				- discriminative model 
+					- ill-defined
+				- generative model
+					- $P(x)=\sum_tP(t,x)=\sum_t P(t)\cdot P(x|t)$
+
+- mixture of Gaussian
+	- $x|t=k\sim \mathcal N(\mu_k,\sum_k)$
+		- t - type
+		- x - features
+	- $t\sim Categorical(\pi_1,...,\pi_k)$
+		- $P(t=k)=\pi_k$
+	- each label is normal distributed but the whole sample distribution may not
+		- in a zoo, the weight-size distribution of a specific species is normal distributed, but that of all animals in the zoo may not. the latter may have multiple peaks

@@ -63,7 +63,7 @@
 - $R^2=\frac{SS_{regr}}{SS_{total}}=1-\frac{SS_{error}}{SS_{total}}$
 
 ## Adjusted Coefficient of Determination
-- $R_{adj}^2=1-\frac{SS_{error}}{SS_{total}}=1-\frac{SS_{error}}{n-(p+1)}\cdot\frac{n-1}{SS_{total}}$
+- $R_{adj}^2=1-\frac{MS_{error}}{MS_{total}}=1-\frac{SS_{error}}{n-(p+1)}\cdot\frac{n-1}{SS_{total}}$
 - more accurate
 
 ---
@@ -135,7 +135,7 @@ Also called Partial F-test or Nested F-test.
 - Extra SS = SSE(reduced) - SSE(full)
 	- SSE=$sum(observed-estimated)^2=\sum(x_i-\bar x)^2$
 - Extra df = $df_{error}(reduced)-df_{error}(full)$
-- $F=\frac{extraSS}{df_{error}(full)}\cdot\frac{SSE(full)}{extraDF}$
+- $F=\frac{extraSS}{extraDF}\cdot\frac{df_{error}(full)}{SSE(full)}$
 
 - $df=[extraDF,df_{error}(full)]$= (num of selected beta, n-(p+1))
 

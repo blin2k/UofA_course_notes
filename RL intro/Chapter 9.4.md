@@ -143,4 +143,5 @@ The TD Fixed Point
 - $w_{TD}$ minimizes $(b-Aw)^T(b-Aw)$ 
 
 $\bar{VE}(w_{TD})\le\frac1{1-\gamma}min_w \bar{VE}(w)$
+- value error
 
