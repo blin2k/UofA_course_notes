@@ -8,50 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "371877c44557bcd0",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "eaf2e3fc0ee3c5e4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Intro.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4fd038ac75668212",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Processes and Threads.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6eadc6e253cbec74",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Inter-process Communication.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "516a536c7eaca500",
             "type": "leaf",
             "state": {
@@ -62,9 +18,45 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "f1b491033c048cd7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Deadlocks.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9f35fb895bd092ab",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Scheduling.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "66933406610d482d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Message Passing.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -83,7 +75,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "byModifiedTime"
               }
             }
           },
@@ -114,8 +106,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "8eaf499feca4f8e2",
@@ -192,16 +183,26 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "516a536c7eaca500",
+  "active": "788b5b5f9505439f",
   "lastOpenFiles": [
-    "Pasted image 20231020000714.png",
-    "Inter-process Communication.md",
+    "attachments/Pasted image 20231215030210.png",
+    "attachments/Pasted image 20231215030204.png",
+    "attachments/Pasted image 20231215030016.png",
+    "attachments/Pasted image 20231215024737.png",
+    "attachments/Pasted image 20231215024238.png",
+    "Scheduling.md",
+    "Message Passing.md",
+    "attachments/Pasted image 20231215012154.png",
+    "attachments/Pasted image 20231215011903.png",
+    "attachments/Pasted image 20231214235347.png",
+    "Deadlocks.md",
+    "attachments/Pasted image 20231214220317.png",
+    "attachments/Pasted image 20231214183954.png",
+    "attachments/Pasted image 20231214174948.png",
     "Synchronization.md",
+    "attachments",
+    "Inter-process Communication.md",
     "Processes and Threads.md",
-    "Pasted image 20231019183043.png",
-    "Pasted image 20231019183031.png",
-    "Pasted image 20231019172841.png",
-    "Intro.md",
-    "Pasted image 20231019153825.png"
+    "Intro.md"
   ]
 }

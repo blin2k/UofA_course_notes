@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Gaussian Mixture Models.md",
+                "file": "Logistic.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Gaussian Mixture Models.md",
+                "file": "Logistic.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Gaussian Mixture Models.md",
+                "file": "Logistic.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Gaussian Mixture Models.md"
+                "file": "Logistic.md"
               }
             }
           },
@@ -158,25 +158,27 @@
   },
   "active": "2b6645a383afe6c8",
   "lastOpenFiles": [
-    "Generative Models.md",
-    "Gaussian Mixture Models.md",
-    "Hyperparameter Tuning.md",
-    "Regularization.md",
-    "MLE.md",
-    "Bias-Variance Trade-Off.md",
-    "MAP.md",
     "Softmax.md",
     "Logistic.md",
-    "Classification.md",
-    "example.md",
+    "Optimality.md",
+    "Convexity.md",
+    "MSE.md",
+    "Hypothesis Class.md",
+    "MAP.md",
+    "MLE.md",
     "Neural Networks.md",
+    "Gaussian Mixture Models.md",
+    "Generative Models.md",
+    "Hyperparameter Tuning.md",
+    "Classification.md",
+    "Regularization.md",
+    "Bias-Variance Trade-Off.md",
+    "example.md",
     "attachments/Pasted image 20231130043028.png",
     "Back Propagation.md",
     "Forward Propagation.md",
     "j.md",
-    "Hypothesis Class.md",
     "Gradient Decent.md",
-    "MSE.md",
     "Solving MSE.md",
     "attachments/Pasted image 20231102002834.png",
     "attachments/Pasted image 20231018212248.png",
@@ -187,8 +189,6 @@
     "Pasted image 20231014223222.png",
     "attachments",
     "attachments/Pasted image 20231012143615.png",
-    "attachments/Pasted image 20231012125645.png",
-    "Optimality.md",
-    "Convexity.md"
+    "attachments/Pasted image 20231012125645.png"
   ]
 }
