@@ -25,14 +25,38 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Background.md",
+                "file": "Lab1 MATLAB Basics.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2e53ceb96f0a17eb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Scientific Computing.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "dd9b7eb9cf7766fa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Scientific Computing.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -98,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Background.md",
+                "file": "Scientific Computing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Background.md",
+                "file": "Scientific Computing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Background.md"
+                "file": "Scientific Computing.md"
               }
             }
           }
@@ -159,8 +183,12 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "2531c9bb938a9aa4",
+  "active": "dd9b7eb9cf7766fa",
   "lastOpenFiles": [
+    "Systems of Linear Equations.md",
+    "Scientific Computing.md",
+    "Pasted image 20240129182941.png",
+    "Pasted image 20240129180112.png",
     "Lab1 MATLAB Basics.md",
     "Background.md"
   ]
