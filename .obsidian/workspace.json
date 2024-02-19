@@ -4,71 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "35d2b193d25d3857",
+        "id": "825b9a128c3bc1a0",
         "type": "tabs",
         "children": [
           {
-            "id": "6291569173c105c1",
+            "id": "fd7290fccdc91310",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Search&Planning-in-AI/Breadth-First Search.md",
+                "file": "Numerical-Methods/Systems of Linear Equations.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "276205f15ec34cad",
+            "id": "6d1bebcde3d272b1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Search&Planning-in-AI/Dijkstra's.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "04fc89da7a480c35",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Search&Planning-in-AI/Bidirectional Search.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "bf4ad1cc85729b19",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Depth-First Search.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "845359822c365e44",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "A star N Admissibility.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -118,8 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "eb3e0b5e638ee4b0",
@@ -135,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "A star N Admissibility.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "A star N Admissibility.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -175,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "A star N Admissibility.md"
+                "file": "README.md"
               }
             }
           }
@@ -196,23 +159,29 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "845359822c365e44",
+  "active": "6d1bebcde3d272b1",
   "lastOpenFiles": [
-    "Depth-First Search.md",
-    "A star N Admissibility.md",
+    "Numerical-Methods/Systems of Linear Equations.md",
+    "Numerical-Methods/Norms and Condition Number.md",
+    "Numerical-Methods/attachments/Pasted image 20240207222143.png",
+    "Numerical-Methods/attachments/Pasted image 20240207205107.png",
+    "Numerical-Methods/attachments/Pasted image 20240207192241.png",
+    "Numerical-Methods/attachments/Pasted image 20240207190609.png",
+    "Numerical-Methods/attachments/Pasted image 20240207190019.png",
+    "Numerical-Methods/attachments",
+    "README.md",
+    "Search&Planning-in-AI/A star N Admissibility.md",
+    "Search&Planning-in-AI/Dijkstra's.md",
+    "Search&Planning-in-AI/Breadth-First Search.md",
+    "Search&Planning-in-AI/attachments/Pasted image 20240202164813.png",
+    "Search&Planning-in-AI/attachments/Pasted image 20240202120103.png",
+    "Search&Planning-in-AI/Depth-First Search.md",
     "Search&Planning-in-AI/Bidirectional Search.md",
     "Search&Planning-in-AI/attachments/Pasted image 20240202001141.png",
     "Pasted image 20240202001114.png",
     "Search&Planning-in-AI/attachments/Pasted image 20240202000845.png",
-    "Search&Planning-in-AI/attachments/Pasted image 20240201214755.png",
-    "Search&Planning-in-AI/attachments/Pasted image 20240201214738.png",
-    "Search&Planning-in-AI/Dijkstra's.md",
-    "Search&Planning-in-AI/Breadth-First Search.md",
     "Search&Planning-in-AI/Intro.md",
-    "Search&Planning-in-AI/attachments/Pasted image 20240131001224.png",
     "Search&Planning-in-AI/attachments",
-    "Search&Planning-in-AI/attachments/Pasted image 20240130225523.png",
-    "README.md",
     "Search&Planning-in-AI",
     "Untitled"
   ]

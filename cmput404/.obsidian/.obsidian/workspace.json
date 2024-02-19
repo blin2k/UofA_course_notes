@@ -1,62 +1,45 @@
 {
   "main": {
-    "id": "d4f52d3da4da39fd",
+    "id": "c5d8b0315e32d318",
     "type": "split",
     "children": [
       {
-        "id": "84d162288b5fd0ac",
+        "id": "f1722124031e5ec4",
         "type": "tabs",
         "children": [
           {
-            "id": "266adcaf38f4057c",
+            "id": "e9a9384adbc66eba",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Depth-First Search.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d1a937aaecd7f721",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Multi-agent Pathfinding.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "8e7a5a2c2b6a93d0",
+    "id": "9b13adfbdf6b1875",
     "type": "split",
     "children": [
       {
-        "id": "94ee092ffb9e3a63",
+        "id": "d02fda62c9424109",
         "type": "tabs",
         "children": [
           {
-            "id": "94d7147a76512950",
+            "id": "9e34228775f0389c",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "byCreatedTime"
+                "sortOrder": "alphabetical"
               }
             }
           },
           {
-            "id": "164bc2c01ab1690f",
+            "id": "da8805366ebc2a6e",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -71,7 +54,7 @@
             }
           },
           {
-            "id": "f96ee21a1a00e9df",
+            "id": "f1054298de3f7d9c",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -82,24 +65,22 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
-    "id": "d0f1d049acdd8621",
+    "id": "2ba76a678abafed4",
     "type": "split",
     "children": [
       {
-        "id": "26567432804ea0dc",
+        "id": "179351f1fb30de1a",
         "type": "tabs",
         "children": [
           {
-            "id": "e2d5fc843efd97f6",
+            "id": "1c85a2a60ff02a59",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Multi-agent Pathfinding.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,19 +92,18 @@
             }
           },
           {
-            "id": "2dceca9d07562eb2",
+            "id": "a5a3d8e218180dfe",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Multi-agent Pathfinding.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "60be058873dbdabc",
+            "id": "fc7fb804ee9b2a28",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -134,13 +114,11 @@
             }
           },
           {
-            "id": "4b81ded565aab0ef",
+            "id": "80ed25eafb0e079d",
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Multi-agent Pathfinding.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -160,27 +138,6 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "d1a937aaecd7f721",
-  "lastOpenFiles": [
-    "Pasted image 20240216181251.png",
-    "Pasted image 20240216180337.png",
-    "Pasted image 20240216162725.png",
-    "Pasted image 20240216120500.png",
-    "Pasted image 20240216115907.png",
-    "Depth-First Search.md",
-    "IDA star, WA star N GBFS.md",
-    "attachments/Pasted image 20240216011501.png",
-    "attachments/Pasted image 20240216001026.png",
-    "attachments/Pasted image 20240215235425.png",
-    "attachments/Pasted image 20240215233628.png",
-    "Pasted image 20240215233125.png",
-    "A star N Admissibility.md",
-    "Dijkstra's.md",
-    "Bidirectional Search.md",
-    "Multi-agent Pathfinding.md",
-    "Multi-agent Pathfinding.md",
-    "attachments/Pasted image 20240209124530.png",
-    "Transposition Tables.md",
-    "Intro.md"
-  ]
+  "active": "e9a9384adbc66eba",
+  "lastOpenFiles": []
 }

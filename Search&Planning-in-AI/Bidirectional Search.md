@@ -74,3 +74,15 @@ Def Bi-Bs(Si, g, T):
 		else:
 			# expand backward direction
 	return failure	
+
+---
+# Memory Problem
+- BFS
+	- $O(b^d)$
+- Dijkstra
+	- $O(b^d)$
+- Bi-Bs
+	- $O(b^{b/2})$
+
+Can we do better?
+- Depth-First Search

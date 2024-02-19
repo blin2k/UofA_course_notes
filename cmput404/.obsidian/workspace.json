@@ -4,47 +4,34 @@
     "type": "split",
     "children": [
       {
-        "id": "4256f0e32a45ba1e",
+        "id": "3b781a57d58ae3c6",
         "type": "tabs",
         "children": [
           {
-            "id": "f07a13b0b08093f6",
+            "id": "c27ed6ffcac9659b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Internet.md",
+                "file": "HTML.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "8f7b820f7146be8b",
+            "id": "38ae46ab389a716a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HTTP.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f28d6968de1dde52",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "More HTTP.md",
+                "file": "JavaScript.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -94,7 +81,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "947ec332dd4221ab",
@@ -110,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "More HTTP.md",
+                "file": "HTML.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "More HTTP.md",
+                "file": "HTML.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "More HTTP.md"
+                "file": "HTML.md"
               }
             }
           }
@@ -171,12 +159,14 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "f28d6968de1dde52",
+  "active": "c27ed6ffcac9659b",
   "lastOpenFiles": [
+    "JavaScript.md",
+    "HTML.md",
+    "More HTTP.md",
     "Internet.md",
     "HTTP.md",
     "attachments/Pasted image 20240123195321.png",
-    "More HTTP.md",
     "attachments/Pasted image 20240119201313.png",
     "attachments/Pasted image 20240119191141.png",
     "attachments/Pasted image 20240118211850.png",

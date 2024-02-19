@@ -136,3 +136,71 @@ user-agent: mozilla/5.0 (windows nt 10.0; win64; x64) applewebkit/537.36 (khtml,
 	- partial downloading
 	- content type
 	- more... 
+
+## Request Headers
+- Accept: \*/*
+	- Accept: video/ogg
+	- specifies the kind of media
+- Accept-Charset: UTF-8
+	- deprecated
+	- use path instead
+- Accept-Encoding: gzip, compress, deflate, br
+	- specifies the compression format
+- Accept-Language: en-CA
+	- creates privacy problems
+	- use path instead
+- Access-Control-Request-Headers: Content-Type
+	- let the browser ask the server if JS is allowed to make requests with those headers
+- Access-Control-Request-Method: POST
+	- let the browser ask the server if JS is allowed to make $POST requests
+- Authorization: Basic YwxhSkdiHlkdj2YW1l
+	- the user agent is sending a username and password or other kind of credentials to the server
+	- rare, usually cookies are used instead
+- Cache-Control: max-age=60
+	- asks the server/proxy not to send data that's been sitting in its cache too long
+- Content-Disposition: form-data; name="fieldName"; filename="filename.jpg"
+	- tells the server what the name/filename of the form data being uploaded when POSTing multipart/form-data
+- Cookie: session=1nsdh3hdsf1234h; csrftoken=1nsdhf234s
+	- the user agent is sending cookies (stored key-value pairs) relevant to the server
+	- the cookies were previously sent to the user agent to store by the server or JS
+- DNT: 1
+	- the user prefers not to be tracked over receiving personalized content
+	- browsers continue to add support, servers continue to ignore it
+- Expect: 100-continue
+	- the user agent is expecting the server to respond with 100-Continue
+- Forwarded: for=192.0.2.60; proto=http; host=example.com
+	- used by (reverse) proxies to tell the server who made the original request, over what protocol and what the original Host header was
+	- X-Forwarded-For is usually used instead
+- From: blin1@ualberta.ca
+	- email address of the person making the requests
+- Host: ualberta.ca
+	- the hostname (and sometimes port) of the website the user agent is trying to connect to
+	- when a single server or proxy is handling requests for many different websites, it needs to know which site the request was made to
+	- otherwise it only can differentiate by IP address, but server/proxy usually has only one public IP address
+	- required in HTTP/1.1 and later for all
+- If-Match: "1231sdfasdfas2342sdf23"
+	- asks the server to send the content only if the ETag matches the specified string
+- If-None-Match: "asdf21342dfa342"
+	- asks the server to send the content only if the ETag doesn't match the specified string
+- If-Modified-Since: Tue, 22 Jan 2019 11:12:44 GMT
+	- asks the server to send the content only if it's changed after the specified time
+- If-Unmodified-Since: ...
+	- opposite the above
+- If-Range: $date
+	- only resume download if I'm going to download the same version, otherwise start over
+- Origin: https://ualberta.ca
+	- tells the server where the JS code making this request came from
+	- broken until Firefox 65
+- Proxy-Authorization
+	- log into forward proxy server
+- Range: bytes=12314-
+	- resume download at the the specified point 
+- Referer: https://mysecretblog.com
+	- tells the server what URI you were viewing that caused you to make the current request
+	- shows what page had the link you clicked to get to the current page
+	- destroys privacy
+	- let server admins know, for example, that people are finding their page on Google, or Twitter
+
+>[! notice]
+>There are lots headers I have not covered.
+>Check the website if you are interested.
