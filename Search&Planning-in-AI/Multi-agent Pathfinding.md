@@ -132,3 +132,26 @@ The second approach
 ![[Pasted image 20240216181251.png]]
 - the chosen one stay the same in the solution list
 - the other one puts the node in conflict list, then runs A* with this conflict 
+
+- the constraints to a parent is a subset of the constraints to its children.
+- the cost for a node is the sum of costs of all agents
+- cost will not get cheaper, but might stay the same
+
+# Pseudo-code
+def CBS(start):
+	# run A* for all agents
+	start.compute_cost()
+	if start.cost is inf:
+		return "no solution"
+	open = \[]
+	open.push(start)
+	while open is not empty:
+		n = open.pop()
+		if n is a solution:
+			# paths are stored when computing the cost
+			return n.paths, n.cost
+		for n' in T(n):
+			n'.compute_cost()
+			if n'.cost is not inf:
+				open.push(n')
+	return "no solution"

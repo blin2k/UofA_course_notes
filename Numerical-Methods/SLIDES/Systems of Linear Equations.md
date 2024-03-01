@@ -153,8 +153,9 @@ In 2D
 	- no interaction or coincide
 		- no solution or any point along the line is solution
 
-If matrix A is singular and there are solutions
+If matrix A is singular and there are solutions y to Ax=b
 ![[Pasted image 20240207222143.png]]
 - for any solution y, y+gamma\*z is also a solution
 	- gamma is any real number
 	- Az = 0
+		- this is why there are infinite solutions

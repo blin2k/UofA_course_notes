@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "84d162288b5fd0ac",
+        "id": "7723e7113ebcd137",
         "type": "tabs",
         "children": [
           {
-            "id": "266adcaf38f4057c",
+            "id": "66c8b657dc8c3ec1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Depth-First Search.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d1a937aaecd7f721",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Multi-agent Pathfinding.md",
+                "file": "Transposition Tables.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -82,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "d0f1d049acdd8621",
@@ -99,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Multi-agent Pathfinding.md",
+                "file": "Transposition Tables.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Multi-agent Pathfinding.md",
+                "file": "Transposition Tables.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Multi-agent Pathfinding.md"
+                "file": "Transposition Tables.md"
               }
             }
           }
@@ -160,27 +146,25 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "d1a937aaecd7f721",
+  "active": "66c8b657dc8c3ec1",
   "lastOpenFiles": [
-    "Pasted image 20240216181251.png",
-    "Pasted image 20240216180337.png",
-    "Pasted image 20240216162725.png",
-    "Pasted image 20240216120500.png",
-    "Pasted image 20240216115907.png",
     "Depth-First Search.md",
+    "A star N Admissibility.md",
     "IDA star, WA star N GBFS.md",
+    "Transposition Tables.md",
+    "Multi-agent Pathfinding.md",
+    "attachments/Pasted image 20240216181251.png",
+    "attachments/Pasted image 20240216180337.png",
+    "attachments/Pasted image 20240216162725.png",
+    "attachments/Pasted image 20240216120500.png",
+    "attachments/Pasted image 20240216115907.png",
     "attachments/Pasted image 20240216011501.png",
     "attachments/Pasted image 20240216001026.png",
     "attachments/Pasted image 20240215235425.png",
     "attachments/Pasted image 20240215233628.png",
     "Pasted image 20240215233125.png",
-    "A star N Admissibility.md",
     "Dijkstra's.md",
     "Bidirectional Search.md",
-    "Multi-agent Pathfinding.md",
-    "Multi-agent Pathfinding.md",
-    "attachments/Pasted image 20240209124530.png",
-    "Transposition Tables.md",
     "Intro.md"
   ]
 }
