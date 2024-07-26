@@ -4,38 +4,40 @@
     "type": "split",
     "children": [
       {
-        "id": "14a22415b488df09",
+        "id": "0d5920cf100f16c7",
         "type": "tabs",
         "children": [
           {
-            "id": "dfb21607d0628225",
+            "id": "5f308552e8b3de47",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3. Linear Least Squares.md",
+                "file": "SLIDES/Norms and Condition Number.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "ccb9463b49d69269",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "attachments/Pasted image 20240228173800.png"
-              }
-            }
-          },
-          {
-            "id": "b4e53c8f6b80c9ba",
+            "id": "f4e90c0ec3284163",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Scientific Computing.md",
+                "file": "6. Optimization.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b25a7222f885fdd6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "4. Eigenvalue Problems.md",
                 "mode": "source",
                 "source": false
               }
@@ -108,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Scientific Computing.md",
+                "file": "4. Eigenvalue Problems.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Scientific Computing.md",
+                "file": "4. Eigenvalue Problems.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Scientific Computing.md"
+                "file": "4. Eigenvalue Problems.md"
               }
             }
           }
@@ -169,8 +171,19 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "b4e53c8f6b80c9ba",
+  "active": "b25a7222f885fdd6",
   "lastOpenFiles": [
+    "Pasted image 20240413173417.png",
+    "6. Optimization.md",
+    "4. Eigenvalue Problems.md",
+    "attachments/Pasted image 20240413163249.png",
+    "SLIDES/Norms and Condition Number.md",
+    "未命名",
+    "SLIDES/Systems of Linear Equations.md",
+    "SLIDES/Scientific Computing.md",
+    "SLIDES/Background.md",
+    "SLIDES/Lab1 MATLAB Basics.md",
+    "1. Scientific Computing.md",
     "attachments/Pasted image 20240228173649.png",
     "attachments/Pasted image 20240228173800.png",
     "3. Linear Least Squares.md",
@@ -182,14 +195,7 @@
     "attachments/Pasted image 20240228155242.png",
     "attachments/Pasted image 20240228155231.png",
     "attachments/Pasted image 20240228155101.png",
-    "attachments/Pasted image 20240228153333.png",
-    "1. Scientific Computing.md",
-    "SLIDES/Norms and Condition Number.md",
     "TEXTBOOK",
-    "SLIDES",
-    "SLIDES/Systems of Linear Equations.md",
-    "SLIDES/Scientific Computing.md",
-    "SLIDES/Lab1 MATLAB Basics.md",
-    "SLIDES/Background.md"
+    "SLIDES"
   ]
 }

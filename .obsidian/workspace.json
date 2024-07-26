@@ -11,12 +11,8 @@
             "id": "fd7290fccdc91310",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Numerical-Methods/Systems of Linear Equations.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           },
           {
@@ -30,9 +26,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "ec58d661aca0413f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "高层出租.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "高层出租.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "高层出租.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "高层出租.md"
               }
             }
           }
@@ -159,8 +167,10 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "6d1bebcde3d272b1",
+  "active": "ec58d661aca0413f",
   "lastOpenFiles": [
+    "README.md",
+    "高层出租.md",
     "Numerical-Methods/Systems of Linear Equations.md",
     "Numerical-Methods/Norms and Condition Number.md",
     "Numerical-Methods/attachments/Pasted image 20240207222143.png",
@@ -169,7 +179,6 @@
     "Numerical-Methods/attachments/Pasted image 20240207190609.png",
     "Numerical-Methods/attachments/Pasted image 20240207190019.png",
     "Numerical-Methods/attachments",
-    "README.md",
     "Search&Planning-in-AI/A star N Admissibility.md",
     "Search&Planning-in-AI/Dijkstra's.md",
     "Search&Planning-in-AI/Breadth-First Search.md",

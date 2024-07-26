@@ -1,5 +1,6 @@
 {
-  "vimMode": false,
+  "promptDelete": false,
+  "vimMode": true,
   "pdfExportSettings": {
     "includeName": true,
     "pageSize": "Letter",

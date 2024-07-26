@@ -8,19 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "c27ed6ffcac9659b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "HTML.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "38ae46ab389a716a",
+            "id": "786e7edadc44c197",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -81,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "947ec332dd4221ab",
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HTML.md",
+                "file": "JavaScript.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "HTML.md",
+                "file": "JavaScript.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "HTML.md"
+                "file": "JavaScript.md"
               }
             }
           }
@@ -159,9 +146,11 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "c27ed6ffcac9659b",
+  "active": "786e7edadc44c197",
   "lastOpenFiles": [
+    "AJAX.md",
     "JavaScript.md",
+    "未命名.md",
     "HTML.md",
     "More HTTP.md",
     "Internet.md",
