@@ -1,19 +1,21 @@
 {
   "main": {
-    "id": "0fd3434237218ca4",
+    "id": "a1790368ab42576d",
     "type": "split",
     "children": [
       {
-        "id": "b430662c59924819",
+        "id": "ce8a0efe853a60e3",
         "type": "tabs",
         "children": [
           {
-            "id": "035f339565596024",
+            "id": "289b8520cf411369",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.6.7"
+                "file": "Background.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -23,15 +25,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "702937051f1a2e2a",
+    "id": "375ea01c32929723",
     "type": "split",
     "children": [
       {
-        "id": "5629536e16232c04",
+        "id": "a2b5f592e2ded5f3",
         "type": "tabs",
         "children": [
           {
-            "id": "1300f9fcc25834bc",
+            "id": "098ad192b3ca2e9f",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -41,7 +43,7 @@
             }
           },
           {
-            "id": "2d29709513a32968",
+            "id": "5b7c3ff3894413fa",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -56,7 +58,7 @@
             }
           },
           {
-            "id": "3e39cf098733a898",
+            "id": "6a15f8b9ceae7401",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -70,20 +72,20 @@
     "width": 300
   },
   "right": {
-    "id": "fa6499fc4851fc98",
+    "id": "b4e8b3d0378df2e5",
     "type": "split",
     "children": [
       {
-        "id": "4dd2d1e450d3de3d",
+        "id": "7b81511e495ff6c9",
         "type": "tabs",
         "children": [
           {
-            "id": "ebbf9d905f840da0",
+            "id": "228e5cd08ffa6f74",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Set Up.md",
+                "file": "Background.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,19 +97,19 @@
             }
           },
           {
-            "id": "a128167ed55cbb13",
+            "id": "0372cce4134cabef",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Set Up.md",
+                "file": "Background.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "8fa4bbc1412b4612",
+            "id": "4471956dacaeb781",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -118,12 +120,12 @@
             }
           },
           {
-            "id": "6ec262ca97753897",
+            "id": "959e58baa293e313",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Set Up.md"
+                "file": "Background.md"
               }
             }
           }
@@ -144,13 +146,9 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "1300f9fcc25834bc",
+  "active": "289b8520cf411369",
   "lastOpenFiles": [
-    "Kotlin.md",
-    "Anatomy.md",
-    "Wireless fNIRS.md",
-    "Set Up.md",
-    "Project Structure.md",
-    "Welcome.md"
+    "Background.md",
+    "欢迎.md"
   ]
 }
