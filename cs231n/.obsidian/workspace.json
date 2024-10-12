@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "ce8a0efe853a60e3",
+        "id": "75ecac787c4f9564",
         "type": "tabs",
         "children": [
           {
-            "id": "289b8520cf411369",
+            "id": "b54ad136bb14e686",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Background.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "82827162dded9fbd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Image Classification/Data-Driven Approach.md",
+                "file": "C5. CNN/C5.3 CNN for Non-Visuals.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Image Classification/Data-Driven Approach.md",
+                "file": "C5. CNN/C5.3 CNN for Non-Visuals.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Image Classification/Data-Driven Approach.md",
+                "file": "C5. CNN/C5.3 CNN for Non-Visuals.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Image Classification/Data-Driven Approach.md"
+                "file": "C5. CNN/C5.3 CNN for Non-Visuals.md"
               }
             }
           }
@@ -151,25 +138,42 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "82827162dded9fbd",
+  "active": "098ad192b3ca2e9f",
   "lastOpenFiles": [
-    "Screenshot 2024-09-11 at 3.42.12 PM.png",
-    "Screenshot 2024-09-11 at 2.53.59 PM.png",
-    "Screenshot 2024-09-11 at 2.42.09 PM.png",
-    "Screenshot 2024-09-11 at 2.19.56 PM.png",
-    "Screenshot 2024-09-11 at 1.51.18 PM.png",
-    "Screenshot 2024-09-11 at 1.40.51 PM.png",
-    "Image Classification",
-    "Image Classification/Data-Driven Approach.md",
-    "Background.md",
+    "pics/Pasted image 20241006210325.png",
+    "pics/Pasted image 20241006201911.png",
+    "pics/Pasted image 20241006201804.png",
+    "C5. CNN/C5.2 Convolution and Pooling.md",
+    "C5. CNN/C5.3 CNN for Non-Visuals.md",
+    "pics/Pasted image 20241006194545.png",
+    "pics/Pasted image 20241006191811.png",
+    "pics/Pasted image 20241006191154.png",
+    "pics/Pasted image 20241006184912.png",
+    "pics/Pasted image 20241006184658.png",
+    "pics/Pasted image 20241006184421.png",
+    "pics/Pasted image 20241006183926.png",
+    "pics/Pasted image 20241006183515.png",
+    "C5. CNN/C5.1 The History of CNN.md",
+    "C4. Intro to NN/C4.2 Neural Networks.md",
+    "C5. CNN",
+    "C4. Intro to NN/C4.1 Backpropagation.md",
+    "C3. Loss Function & Optimization.md",
+    "C4. Intro to NN",
+    "Excalidraw/Drawing 2024-10-06 14.25.34.excalidraw.md",
+    "Excalidraw",
+    "C1. Background.md",
+    "C2. Image Classification/Data-Driven Approach.md",
+    "pics",
+    "C2. Image Classification",
     "欢迎.md"
   ]
 }

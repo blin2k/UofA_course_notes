@@ -8,39 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "fd7290fccdc91310",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "6d1bebcde3d272b1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "ec58d661aca0413f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "高层出租.md",
-                "mode": "preview",
+                "file": "ML(FoS)/Solving MSE.md",
+                "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -106,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "高层出租.md",
+                "file": "ML(FoS)/Solving MSE.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "高层出租.md",
+                "file": "ML(FoS)/Solving MSE.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "高层出租.md"
+                "file": "ML(FoS)/Solving MSE.md"
               }
             }
           }
@@ -169,6 +148,14 @@
   },
   "active": "ec58d661aca0413f",
   "lastOpenFiles": [
+    "cs231n/Pasted image 20240928150744.png",
+    "cs231n/Pasted image 20240928145640.png",
+    "cs231n/Loss Function & Optimization.md",
+    "cs231n/未命名.md",
+    "ML(FoS)/Hypothesis Class.md",
+    "ML(FoS)/MSE.md",
+    "ML(FoS)/Optimality.md",
+    "ML(FoS)/Convexity.md",
     "README.md",
     "高层出租.md",
     "Numerical-Methods/Systems of Linear Equations.md",
@@ -188,7 +175,6 @@
     "Search&Planning-in-AI/Bidirectional Search.md",
     "Search&Planning-in-AI/attachments/Pasted image 20240202001141.png",
     "Pasted image 20240202001114.png",
-    "Search&Planning-in-AI/attachments/Pasted image 20240202000845.png",
     "Search&Planning-in-AI/Intro.md",
     "Search&Planning-in-AI/attachments",
     "Search&Planning-in-AI",
